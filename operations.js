@@ -1,0 +1,9 @@
+module.exports = {
+  LOGIN: "LOGIN",
+  LOGOUT: "LOGOUT",
+  NEW_ALOC: "NEW_ALOC",
+  REMOVE_ALOC: "REMOVE_ALOC",
+  ALOC_LIST: "ALOC_LIST",
+  TOTAL_PRICE: "TOTAL_PRICE",
+  EXIT: "EXIT"
+};
